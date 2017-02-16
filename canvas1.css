@@ -1,4 +1,6 @@
 canvas {
   border-style: dotted;
   border-color: black;
+  display: block;
+  margin: 0 auto;
 }
