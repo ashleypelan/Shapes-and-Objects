@@ -3,4 +3,9 @@ canvas {
   border-color: black;
   display: block;
   margin: 0 auto;
+  margin-top: 25px;
+}
+
+.selections {
+  margin-left: 40%;
 }
