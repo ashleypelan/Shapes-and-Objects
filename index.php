@@ -35,6 +35,6 @@
       <input type="submit" value="Fill Canvas with Random Shapes" id="random"></input>
       <br><br>
     </div>
-    <script type=/"text/javascript/" src=/"canvas1.js/"></script>
+    <script type="text/javascript" src="canvas1.js"></script>
   </body>
 </html>
