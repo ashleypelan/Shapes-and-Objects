@@ -14,13 +14,13 @@
     <title></title>
   </head>
   <body>
-    <canvas id=/"canvas/" width=/"800/" height=/"500/"></canvas>
+    <canvas id="canvas" width="800" height="500"></canvas>
     <br>
-    <div class=/"selections/">
-      <select class=/"shape/" id=/"shape/">
-        <option class=/"shape/" selected disabled>Circles or Squares?</option>
-        <option id=/"circle/" class=/"shape/">Circle</option>
-        <option id=/"square/" class=/"shape/">Square</option>
+    <div class="selections">
+      <select class="shape" id="shape">
+        <option class="shape" selected disabled>Circles or Squares?</option>
+        <option id="circle" class="shape">Circle</option>
+        <option id="square" class="shape">Square</option>
       </select>
       <input type="color" id="colour" class="color" value="#ffffff"></input>
       <br><br>
