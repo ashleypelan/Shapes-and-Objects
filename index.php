@@ -1,4 +1,4 @@
-echo "<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <!-- Latest compiled and minified CSS -->
@@ -38,6 +38,6 @@ echo "<!DOCTYPE html>
     <script type=/"text/javascript/" src=/"canvas1.js/"></script>
   </body>
 </html>
-";
+;
 
-readfile("/path/to/file");
+<!-- readfile("/path/to/file"); -->
