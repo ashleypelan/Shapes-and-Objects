@@ -9,8 +9,8 @@
 
     <!-- Latest compiled JavaScript -->
     <script src=/"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js/"></script>
-    <meta charset=/"utf-8/">
-    <link rel=/"stylesheet/" type=/"text/css/" href=/"canvas1.css/">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="canvas1.css">
     <title></title>
   </head>
   <body>
