@@ -22,17 +22,17 @@
         <option id=/"circle/" class=/"shape/">Circle</option>
         <option id=/"square/" class=/"shape/">Square</option>
       </select>
-      <input type=/"color/" id=/"colour/" class=/"color/" value=/"#ffffff/"></input>
+      <input type="color" id="colour" class="color" value="#ffffff"></input>
       <br><br>
-      <input type=/"text/" id=/"width/" class=/"width/" placeholder=/"Width/"></input>
+      <input type="text" id="width" class="width" placeholder="Width"></input>
       <br><br>
-      <input type=/"submit/" value=/"Change Color of All Shapes/" id=/"change_colour/"></input>
+      <input type="submit" value="Change Color of All Shapes" id="change_colour"></input>
       <br><br>
-      <input type=/"submit/" value=/"Erase All Shapes/" id=/"erase/"></input>
+      <input type="submit" value="Erase All Shapes" id="erase"></input>
       <br><br>
-      <input type=/"submit/" value=/"Randomly Change Colors/" id=/"random_change/"></input>
+      <input type="submit" value="Randomly Change Colors" id="random_change"></input>
       <br><br>
-      <input type=/"submit/" value=/"Fill Canvas with Random Shapes/" id=/"random/"></input>
+      <input type="submit" value="Fill Canvas with Random Shapes" id="random"></input>
       <br><br>
     </div>
     <script type=/"text/javascript/" src=/"canvas1.js/"></script>
